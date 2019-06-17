@@ -1,4 +1,4 @@
-# [kasvatus.info - kysymys- ja vastaussivusto](https://kasvatus.inf)
+# [kasvatus.info - kysymys- ja vastaussivusto](https://kasvatus.info)
 
 Sivusto on tarkoitettu pelillistetyn tietopankin rakentamisesta kiinnostuneille henkilöille.
 
