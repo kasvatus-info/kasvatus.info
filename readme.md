@@ -11,5 +11,5 @@ Kehitysehdotuksia voi jättää [täällä](https://github.com/kasvatus-info/kas
 Mikäli havaitset puutteita tai virheitä sivustolla niin ilmoita niistä [täällä](https://github.com/kasvatus-info/kasvatus.info/issues).
 
 ## Haluatko osallistua sivuston kehittämiseen?
-Laita tiketti [täällä](https://github.com/kasvatus-info/kasvatus.info/issues) niin otan yhteyttä.
+Laita tiketti [täällä](https://github.com/kasvatus-info/kasvatus.info/issues) tai [Twitterin kautta](https://twitter.com/markosuvila)  niin otan yhteyttä.
 
