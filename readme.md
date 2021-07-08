@@ -1,6 +1,6 @@
 # [kasvatus.info - kysymys- ja vastaussivusto](https://kasvatus.info)
 
-Kasvatus.info sivuston ideana on, että sivuston käyttäjistä muodostuva yhteisö rakentaa pelillistettyä tietopankkia lasten kasvattamiseen liittyvälle tiedolle. Sisältö on kaikkien hyödynnettävissä avoimen tiedon lisenssin ansiosta (CC-BY-SA).
+Kasvatus.info sivuston ideana on, että sivuston käyttäjistä muodostuva yhteisö rakentaa pelillistettyä tietopankkia lasten kasvattamiseen liittyvälle tiedolle. ~~Sisältö on kaikkien hyödynnettävissä avoimen tiedon lisenssin ansiosta (CC-BY-SA).~~ 
 
 Alustana toimii avoimeen lähdekoodiin pohjautuva [Question2Answer](http://www.question2answer.org/) järjestelmä.
 
